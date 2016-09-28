@@ -10,10 +10,12 @@ javac RPN.java
 java RPN 2 2 +
 >>> 2 + 2
 >>> Result: 4
+
 java RPN 2 2 + 7 "*"
 >>> 2 + 2
 >>> 7 * 4
 >>> Result: 28
+
 java RPN 6 9 3 / +
 >>> 9 / 3
 >>> 3 + 6
